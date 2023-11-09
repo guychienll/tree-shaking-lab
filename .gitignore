@@ -1,0 +1,6 @@
+# output
+/node_modules
+/dist
+
+# custom settings
+/.vscode
